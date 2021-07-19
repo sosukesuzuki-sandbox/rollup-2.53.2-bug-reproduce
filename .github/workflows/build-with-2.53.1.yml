@@ -7,7 +7,8 @@ on:
   pull_request:
 
 jobs:
-  name: Lint
+  build:
+    name: Build
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
