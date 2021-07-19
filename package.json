@@ -1,0 +1,13 @@
+{
+  "name": "rollup-2.53.2-bug-reproduce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run:2.53.1": "cd ./2.53.1 && npm i && npm run build",
+    "run:2.53.2": "cd ./2.53.2 && npm i && npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

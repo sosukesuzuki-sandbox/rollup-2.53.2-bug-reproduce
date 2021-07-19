@@ -1,0 +1,20 @@
+{
+  "name": "2.53.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^19.0.1",
+    "@rollup/plugin-node-resolve": "^13.0.2",
+    "rollup": "2.53.1"
+  },
+  "dependencies": {
+    "flow-parser": "^0.155.1"
+  }
+}
