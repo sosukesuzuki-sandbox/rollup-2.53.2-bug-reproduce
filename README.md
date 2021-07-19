@@ -10,3 +10,7 @@ See results of building in GitHub Actions:
 
 - [Build with Rollup 2.53.1 has succeed](https://github.com/sosukesuzuki-sandbox/rollup-2.53.2-bug-reproduce/runs/3101870864?check_suite_focus=true)
 - [Build with Rollup 2.53.2 has failed](https://github.com/sosukesuzuki-sandbox/rollup-2.53.2-bug-reproduce/actions/runs/1044442869)
+
+## Context
+
+- https://github.com/prettier/prettier/pull/11217
